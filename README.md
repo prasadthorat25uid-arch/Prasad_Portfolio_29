@@ -13,7 +13,7 @@ import {
   Volume2,               
   VolumeX, 
   ArrowDown, 
-  ExternalLink, 
+  ExternalLink,  
   Linkedin, 
   Github, 
   MessageSquare, 
