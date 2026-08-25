@@ -433,7 +433,7 @@
                 className="flex items-center gap-2 px-4 py-2 rounded-full bg-orange-500/20 backdrop-blur-md border border-orange-500/50 text-orange-300 text-xs font-semibold tracking-wider shadow-lg shadow-orange-500/10 hover:bg-orange-500/30 transition-all duration-300 cursor-pointer"
               >
                 {audioLoading ? <Icons.Loader2 /> : <Icons.Sparkles />}
-                <span>{audioLoading ? "GENERATING VOICE..." : "TAP FOR SOUND"}</span>
+                <span>{audioLoading ? "GENERATING VOICE..." : "TAP FOR SOUND"}</span 
               </button>
             </div>
           )}
