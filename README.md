@@ -10,7 +10,7 @@ import {
   Sparkles, 
   Play, 
   Pause, 
-  Volume2, 
+  Volume2,               
   VolumeX, 
   ArrowDown, 
   ExternalLink, 
