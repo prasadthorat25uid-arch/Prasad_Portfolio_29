@@ -1,4 +1,4 @@
-# Prasad Sudhir Thorat — Portfolio
+ # Prasad Sudhir Thorat — Portfolio
 
 A single-page cinematic portfolio (Cybersecurity • AI • Software Engineering) built with React (via CDN + Babel), Tailwind CSS, Three.js, and GSAP. No build step required — it's a static site.
 
